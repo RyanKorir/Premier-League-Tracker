@@ -2,7 +2,7 @@
 
 **The whole 2026/27 season in one fast page: table, fixtures, scorers and highlights — live.**
 
-**Live site:** https://pl-tracker.vercel.app
+**Live site:** https://epl-tracker.vercel.app
 
 ## What it does
 
